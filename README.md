@@ -53,7 +53,7 @@ All the notes will be kept in a drop-down table form.
 
 # ScreenShot
 ![Image of adduser](https://github.com/gourahrikundu/loginSystem/blob/master/projectSS/1.jpg)  
-![Image of adduser](https://github.com/gourahrikundu/loginSystem/blob/master/projectSS/1.jpg)  
-![Image of adduser](https://github.com/gourahrikundu/loginSystem/blob/master/projectSS/1.jpg)  
+![Image of adduser](https://github.com/gourahrikundu/loginSystem/blob/master/projectSS/2.jpg)  
+![Image of adduser](https://github.com/gourahrikundu/loginSystem/blob/master/projectSS/3.jpg)  
 
 ##  If you like my project hit a star button
