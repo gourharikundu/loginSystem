@@ -15,9 +15,9 @@
 </p>
 
 
-# iNotes- A note taking website
-A website where user can keep their important notes. They can add, edit, delete and go through each note.  
-All the notes will be kept in a drop-down table form.
+# loginSystem
+This is a simple web application build with PHP that implements simple login system.  
+Username and password in the hashed form is stores in the database and matched while loggin in and if matches then only user is given authorization.
 
 # Installation
 
